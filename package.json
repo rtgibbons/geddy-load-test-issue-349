@@ -1,0 +1,12 @@
+{
+  "name": "geddy-fuck",
+  "version": "0.0.1",
+  "author": "",
+  "dependencies": {
+  	"geddy": "*"
+  	},
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  }
+}
